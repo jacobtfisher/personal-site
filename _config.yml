@@ -1,11 +1,11 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Jacob T. Fisher
+subtitle: 
+email: jacob.taylor.fisher@gmail.com
+description: Researcher, Media Neuroscience Lab | Graduate student, UC Santa Barbara
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Jacob T. Fisher
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN

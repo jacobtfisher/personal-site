@@ -22,10 +22,11 @@
 // Font.
 	$font: (
 		family:				('Open Sans', sans-serif),
-		family-heading:		('Roboto Slab', serif),
-		family-fixed:		('Courier New', monospace),
+		family-heading:		('Open Sans', serif),
+		family-fixed:		('Roboto Mono', monospace),
 		weight:				400,
 		weight-bold:		600,
+		weight-light:		300,
 		weight-heading:		700,
 		weight-heading-alt:	400,
 		kerning-heading:	0.075em
@@ -40,5 +41,5 @@
 		fg-light:			#9fa3a6,
 		border:				rgba(210,215,217,0.75),
 		border-bg:			transparentize(#e6ebed, 0.75),
-		accent:				#f56a6a
+		accent:				#1e88e5
 	);
