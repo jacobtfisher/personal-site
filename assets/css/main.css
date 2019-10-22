@@ -9238,6 +9238,7 @@ button:disabled,
   text-transform: none !important;
 }
 #sidebar .toggle:before {
+  font-family: "Font Awesome 5 Free";
   content: "";
   font-size: 2rem;
   height: inherit;

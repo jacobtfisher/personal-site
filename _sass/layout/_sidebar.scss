@@ -101,6 +101,7 @@
 			z-index: _misc(z-index-base);
 
 			&:before {
+				font-family: "Font Awesome 5 Free";
 				content: '\f0c9';
 				font-size: 2rem;
 				height: inherit;
