@@ -13,7 +13,6 @@
 
 			&:before {
 				@include vendor('transform', 'scaleX(-1)');
-				font-family: "Font Awesome 5 Free";
 				color: _palette(fg);
 				font-family: "Font Awesome 5 Free";
 				content: '\f002';
