@@ -9145,6 +9145,7 @@ button:disabled,
   -ms-transform: scaleX(-1);
   transform: scaleX(-1);
   color: #7f888f;
+  font-family: "Font Awesome 5 Free";
   content: "";
   cursor: default;
   display: block;
