@@ -9144,8 +9144,8 @@ button:disabled,
   -webkit-transform: scaleX(-1);
   -ms-transform: scaleX(-1);
   transform: scaleX(-1);
-  font-family: "Font Awesome 5 Free";
   color: #7f888f;
+  font-family: "Font Awesome 5 Free";
   content: "";
   cursor: default;
   display: block;
