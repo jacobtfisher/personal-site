@@ -8714,6 +8714,7 @@ input[type=reset].icon:before,
 input[type=button].icon:before,
 button.icon:before,
 .button.icon:before {
+  font-family: "Font Awesome 5 Free";
   margin-right: 0.5em;
 }
 input[type=submit].fit,

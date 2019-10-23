@@ -286,7 +286,7 @@ title: Elements
 			</ul>
 			<ul class="actions">
 				<li><a href="#" class="button special icon fa-search">Icon</a></li>
-				<li><a href="#" class="button icon fa-download">Icon</a></li>
+				<li><a href="#" class="button icon fa fa-download">Icon</a></li>
 			</ul>
 			<ul class="actions">
 				<li><span class="button special disabled">Special</span></li>
