@@ -3,6 +3,15 @@ layout: page
 title: Publications
 ---
 
+### Modality-specific effects of perceptual load in multimedia processing 
+**Fisher, J.T.**, Hopp, F.R., & Weber, R. (2019) <br>
+*Media & Communication*
+
+Digital media are sensory-rich, multimodal, and often highly interactive. An extensive collection of theories and models within the ﬁeld of media psychology assume the multimodal nature of media stimuli, yet there is current ambiguity as to the independent contributions of visual and auditory content to message complexity and to resource availability in the human processing system. In this manuscript, we argue that explicating the concepts of perceptual and cognitive load can create progress toward a deeper understanding of modality-speciﬁc effects in media processing. In addition, we report ﬁndings from an experiment showing that perceptual load leads to modality-speciﬁc reductions in resource availability, whereas cognitive load leads to a modality-general reduction in resource availability. We conclude with a brief discussion regarding the critical importance of separating modality-speciﬁc forms of load in an increasingly multisensory media environment. 
+
+<i class="fas fa-lock-open"></i> [Link](https://mediarxiv.org/cz2pj/)<br>
+<img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> [OSF](https://osf.io/as2u5/)
+
 ### iCoRe: The GDELT interface for the advancement of communication research 
 Hopp. F.R., Schaffer, J., **Fisher, J.T.**, Cornell, D., & Weber, R. (2019) <br>
 *Computational Communication Research*
