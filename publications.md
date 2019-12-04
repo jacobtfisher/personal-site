@@ -12,11 +12,14 @@ Digital media are sensory-rich, multimodal, and often highly interactive. An ext
 <i class="fas fa-lock-open"></i> [Link](https://mediarxiv.org/cz2pj/)<br>
 <img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> [OSF](https://osf.io/as2u5/)
 
+
 ### iCoRe: The GDELT interface for the advancement of communication research 
 Hopp. F.R., Schaffer, J., **Fisher, J.T.**, Cornell, D., & Weber, R. (2019) <br>
 *Computational Communication Research*
 
-This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language and Tone (GDELT; Leetaru &; Schrodt, 2013). GDELT provides a vast, open source, and constantly updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential to advance communication research. [Link](https://osf.io/preprints/socarxiv/smjwb)
+This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language and Tone (GDELT; Leetaru &; Schrodt, 2013). GDELT provides a vast, open source, and constantly updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential to advance communication research. 
+
+<i class="fas fa-lock-open"></i> [Link](https://www.ingentaconnect.com/contentone/aup/ccr/2019/00000001/00000001/art00002)<br>
 
 ### The limited capacity model of motivated mediated message processing: taking stock of the past
 **Fisher, J.T.**, Keene, J.R., Huskey, R., & Weber, R. (2018) <br>
