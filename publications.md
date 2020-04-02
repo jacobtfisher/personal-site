@@ -3,6 +3,25 @@ layout: page
 title: Publications
 ---
 
+### Integrating news framing, dynamic-transactional paradigms, and computational modeling: An examination of the dynamic relationship between news frames and real-world events
+Hopp, F.R., **Fisher, J.T.**, & Weber, R.
+
+A central goal of news research is to understand the interplay between news coverage and sociopolitical events. Although a great deal of work has elucidated how events drive news coverage, and how in turn news coverage influences societal outcomes, integrative systems-level models of the reciprocal interchanges between these two processes are sparse. Herein, we present a macro-scale investigation of the dynamic transactions between news frames and events using Hidden Markov Models (HMMs), focusing on morally-charged news frames and sociopolitical events. Using 3,501,141 news records discussing 504,759 unique events, we demonstrate that sequences of frames and events can be characterized in terms of "hidden states" containing distinct moral frame and event relationships, and that these “hidden states” can forecast future news frames and events. This work serves to construct a path toward the integrated study of the news-event cycle across multiple research domains.
+
+<i class="fas fa-lock-open"></i> *Forthcoming* <br>
+<img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> *Forthcoming*
+
+### An agenda for open science in communication
+
+Dienlin, T., Johannes, N., Bowman, N.D., Masur, P.K., Engesser, S. Kümpel, A.S., Lukito, J., Bier, L.M., Zhang, R., Johnson, B.K., Huskey, R., Schneider, F.M., Breuer, J., Parry, D.A., Vermeulen, I., **Fisher, J.T.** Banks, J., Weber, R., Ellis, D., Smits, T., Ivory, J.D., Trepte, S., McEwan, B., Rinke, E.M., Neubaum, G., Winter, S., Carpenter, C.J., Krämer, N., Utz, S., Unkel, J., Wang, X., Davidson, B.I., Kim, N., Won, A.S., Domahidi, E., Lewis, N.A., de Vreese, C. <br>
+*Journal of Communication*
+
+In the last 10 years, many canonical findings in the social sciences appear unreliable. This so-called “replication crisis” has spurred calls for open science practices, which aim to increase the reproducibility, replicability, and generalizability of findings. Communication research is subject to many of the same challenges that have caused low replicability in other fields. As a result, we propose an agenda for adopting open science practices in Communication, which includes the following seven suggestions: (1) publish materials, data, and code; (2) preregister studies and submit registered reports; (3) conduct replications; (4) collaborate; (5) foster open science skills; (6) implement Transparency and Openness Promotion Guidelines; and (7) incentivize open science practices. Although in our agenda we focus mostly on quantitative research, we also reflect on open science practices relevant to qualitative research. We conclude by discussing potential objections and concerns associated with open science practices.
+
+<i class="fas fa-lock-open"></i> [Link](https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqz052/5803422)<br>
+<img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> [OSF](https://osf.io/usy4t/)
+
+
 ### Modality-specific effects of perceptual load in multimedia processing 
 **Fisher, J.T.**, Hopp, F.R., & Weber, R. (2019) <br>
 *Media & Communication*
@@ -42,7 +61,7 @@ Weber, R., **Fisher, J.T.**, Hopp, F.R., & Lonergan, C. (2018) <br>
 Brain imaging techniques within communication research have rapidly expanded in popularity in recent years, driven by an increase in access to functional magnetic resonance imaging (fMRI) technology and by theoretical developments within the field. In this manuscript, we present an overview of research from within communication and cognate disciplines that has leveraged insights from fMRI research to "push the envelope," demonstrating a synergy between methodological and theoretical progress. In addition, we provide a review of fMRI technology, methodology, and theoretical considerations, focusing on recent developments in the cognitive and brain sciences that are of special relevance to communication scholars. Finally, we provide a series of practical recommendations and resources for communication scholars interested in conducting fMRI studies. [Link](https://www.tandfonline.com/doi/full/10.1080/03637751.2017.1395059)
 
 ## Book Chapters & Encyclopedia Entries
-**Fisher, J.T.**, Lonergan, C., Hopp, F.R., & Weber (In Press). Media entertainment, flow experiences, and the synchronization of audiences. In Vorderer, P, & Klimmt, C., (Eds.) *Oxford Handbook of Entertainment Theory*. Oxford, UK: Oxford University Press.
+**Fisher, J.T.**, Lonergan, C., Hopp, F.R., & Weber (In Press). Media entertainment, flow experiences, and the synchronization of audiences. In Vorderer, P, & Klimmt, C., (Eds.) *Oxford Handbook of Entertainment Theory*. Oxford, UK: Oxford University Press. 
 
 **Fisher, J.T.**, & Weber, R. (In Press). Innovative health interventions at the intersection of neuroimaging and multimedia design. In Kim, J. & Song, H. (Eds.) *New Technology for Health-Related Cognitive and Behavioral Change*. San Diego, CA: Elsevier.
 
@@ -52,6 +71,6 @@ Brain imaging techniques within communication research have rapidly expanded in 
 
 Weber, R., & **Fisher, J.T.** (In Press). Advancing the synchronization theory of flow experiences. In Weber, R., & Floyd, K., (Eds.) *Handbook of Communication Science and Biology*. New York, NY: Routledge.
 
-**Fisher, J.T.**, & Weber, R. (In Press). Limited capacity model of motivated mediated message processing (LC4MP). In Van Den Bulck, J., (Ed.) *International Encyclopedia of Media Psychology*. Hoboken, NJ: Wiley Blackwell.
+**Fisher, J.T.**, & Weber, R. (2020). Limited capacity model of motivated mediated message processing (LC4MP). In Van Den Bulck, J., (Ed.) *International Encyclopedia of Media Psychology*. Hoboken, NJ: Wiley Blackwell. <i class="fas fa-lock-open"></i> [Link](assets/files/LC4MP_IEMP_postprint.pdf)
 
-Weber, R., & **Fisher, J.T.** (In Press). Flow. In Van Den Bulck, J., (Ed.) *International Encyclopedia of Media Psychology*. Hoboken, NJ: Wiley Blackwell.
+Weber, R., & **Fisher, J.T.** (2020). Flow. In Van Den Bulck, J., (Ed.) *International Encyclopedia of Media Psychology*. Hoboken, NJ: Wiley Blackwell.
