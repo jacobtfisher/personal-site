@@ -11,7 +11,7 @@ I am a researcher in the [Media Neuroscience Lab](https://www.medianeuroscience.
 
 <div class="box">
 
-<i class="fas fa-exclamation-triangle" style = "color:#ffd54f"></i> This fall I will be joining the [Charles H. Sandage Department of Advertising](https://media.illinois.edu/advertising) at the University of Illinois Urbana-Champaign as an Assistant Professor. I'm excited to join the College of Media, and look forward to future research collaborations! 
+<i class="fas fa-exclamation-triangle" style = "color:#ffd54f"></i> This fall I will be joining the <a href = "https://media.illinois.edu/advertising">Charles H. Sandage Department of Advertising</a> at the University of Illinois Urbana-Champaign as an Assistant Professor. I'm excited to join the College of Media, and look forward to future research collaborations! 
 
 </div>
 
