@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Integrating news framing, dynamic-transactional paradigms, and computational modeling: An examination of the dynamic relationship between news frames and real-world events
-Hopp, F.R., **Fisher, J.T.**, & Weber, R.
+Hopp, F.R., **Fisher, J.T.**, & Weber, R. <br>
 *Journal of Communication*
 
 A central goal of news research is to understand the interplay between news coverage and sociopolitical events. Although a great deal of work has elucidated how events drive news coverage, and how in turn news coverage influences societal outcomes, integrative systems-level models of the reciprocal interchanges between these two processes are sparse. Herein, we present a macro-scale investigation of the dynamic transactions between news frames and events using Hidden Markov Models (HMMs), focusing on morally-charged news frames and sociopolitical events. Using 3,501,141 news records discussing 504,759 unique events, we demonstrate that sequences of frames and events can be characterized in terms of "hidden states" containing distinct moral frame and event relationships, and that these “hidden states” can forecast future news frames and events. This work serves to construct a path toward the integrated study of the news-event cycle across multiple research domains.
@@ -13,7 +13,7 @@ A central goal of news research is to understand the interplay between news cove
 <img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> *Forthcoming*
 
 ### Video game violence and interactivity: Effect or equivalence?
-Weber, R., Behr, K.-M. **Fisher, J.T.**, Lonergan. C., & Quebral, C.
+Weber, R., Behr, K.-M. **Fisher, J.T.**, Lonergan. C., & Quebral, C. <br>
 *Journal of Communication*
 
 The effect of exposure to violent video game content on aggression is intensely debated. Meta-analyses have produced widely varying estimates as to the effect (or non-effect) of violent video games on subsequent aggressive thoughts and behaviors. Recent work suggests that interactivity and player skill may play key roles in moderating the effects of violent content in video games on aggression. This study investigates the effects of violence, interactivity, and player skill on mild aggressive behavior using a custom-developed first-person shooter game allowing for high levels of experimental control. We conduct effect and equivalence tests with effect size assumptions drawn from prominent meta-analyses in the video game violence literature, finding that aggressive behavior following violent video game play is statistically equivalent to that observed following non-violent game play. We also observe an interaction between violent game content, player skill, and interactivity. When player skill matched the interactivity of the game, violent content led to an increase in aggressive behavior, whereas when player skill did not match the interactivity of the game, violent content decreased aggressive behavior. This interaction is probed using a multiverse analysis incorporating both classical significance testing and Bayesian analyses. [Publisher Link](https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqz048/5823594).
@@ -22,7 +22,6 @@ The effect of exposure to violent video game content on aggression is intensely 
 <img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;"> [OSF](https://osf.io/3d254/)
 
 ### An agenda for open science in communication
-
 Dienlin, T., Johannes, N., Bowman, N.D., Masur, P.K., Engesser, S. Kümpel, A.S., Lukito, J., Bier, L.M., Zhang, R., Johnson, B.K., Huskey, R., Schneider, F.M., Breuer, J., Parry, D.A., Vermeulen, I., **Fisher, J.T.** Banks, J., Weber, R., Ellis, D., Smits, T., Ivory, J.D., Trepte, S., McEwan, B., Rinke, E.M., Neubaum, G., Winter, S., Carpenter, C.J., Krämer, N., Utz, S., Unkel, J., Wang, X., Davidson, B.I., Kim, N., Won, A.S., Domahidi, E., Lewis, N.A., de Vreese, C. <br>
 *Journal of Communication*
 
