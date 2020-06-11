@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications
 ---
 ### The extended moral foundations dictionary (eMFD): Development and applications of a crowd-sourced approach to extracting moral intuitions from text 
 Hopp, F.R., **Fisher, J.T.**, Cornell, D., Huskey, R., & Weber, R. <br>

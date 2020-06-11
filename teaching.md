@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+permalink: /teaching
 ---
 
 ## Summer 2018
