@@ -4,6 +4,13 @@ title: Teaching
 permalink: /teaching
 ---
 
+## Fall 2020
+**Instructor of Record** <br>
+ADV 283 - Advertising and Brand Strategy <br>
+University of Illinois Urbana-Champaign
+
+In this course, students learn the basics of brand identity and brand strategy, with a focus on advertising concepts, design, content, implementation, and analysis. 
+
 ## Summer 2018
 **Instructor of Record** <br>
 PSY 111 - Behavioral Neuroscience <br>
