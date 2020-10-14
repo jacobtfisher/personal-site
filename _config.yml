@@ -13,24 +13,23 @@ zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
 
-collections:
-  pubs:
-    output: true
-    permalink: /pubs/:title
-
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url:
+university_affiliation: University of Illinois
+university_url: https://illinois.edu/
+departmental_affiliation: College of Media
+departmental_url: https://media.illinois.edu/
+rg_url: https://www.researchgate.net/profile/Jacob_Fisher4
+github_url: https://github.com/jacobtfishe
+orcid_url: https://orcid.org/0000-0002-2968-2557
+osf_url: https://osf.io/n49b8/
+twitter_url: https://twitter.com/jake_fisher
 
 # Build settings
 markdown: kramdown
 sass:
     sass_dir: _sass
+
+collections:
+  pubs:
+    output: true
+    permalink: /pubs/:title
