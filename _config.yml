@@ -13,6 +13,11 @@ zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
 
+collections:
+  pubs:
+    output: true
+    permalink: /pubs/:title
+
 # Social settings
 500px_url:
 facebook_url:
