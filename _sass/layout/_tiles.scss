@@ -37,7 +37,7 @@
         border-radius: _size(border-radius) * 2;
 
         h3 {
-            margin: 0 0 (_size(element-margin) * 0.1) 0;
+            margin: 0 0 (_size(element-margin) * 0.2) 0;
         }
 
         .article-info {
@@ -53,6 +53,12 @@
 
             .padbox {
                 flex-grow: 1;
+            }
+
+            b {
+                color: _palette(fg);
+                text-transform: uppercase;
+                font-size: _font(size) * .8;
             }
 
         }
