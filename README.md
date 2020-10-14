@@ -1,87 +1,72 @@
-# (WIP) Editorial - Jekyll Theme
+# Personal Website - Academic
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
+This GitHub repo contains WIP code for an personal academic website. This template is based on a Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/), but has a number of changes that make it more suitable for academic use. 
 
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-# How to Use
+## How to Use
 
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
+To get started, you can fork this reposity, create a branch named `gh-pages`, and then start editing the `_config.yml` file.
 
-# Added Features
+## Features
 
-* Add your **social profiles** easily in `_config.yml`.
+- Collapsible sidebar containing headshot and personal/social info
+- Info and icons are configurable using `config.yml`
+- Publications can be added as `.md` files with `.yaml` frontmatter. Creates a rollup of publications, and an individual page per publication with abstract.
+- Teaching page to add course info
+- Storage for CV and other files
 
-# Configuration
+## Configuration
 
 You can use the following custom parameters in `_config.yml`.
 
-## Site
+### Site
+
 - `subtitle` sets the text for the lighter colored text next to your site's title.
 
-## Social
-- `500px_url`
-- `facebook_url`
-- `github_url`
-- `gitlab_url`
-- `googleplus_url`
-- `instagram_url`
-- `linkedin_url`
-- `pinterest_url`
-- `slack_url`
+### Personal/Social Info
+
+- `university_affiliation`
+- `departmental_affiliation`
+- `email`
+- `researchgate_url`
 - `twitter_url`
+- `github_url`
+- `googlescholar_url`
+- `orcid_url`
+- `osf_url`
 
-# Issues
+## Issues
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/editorial-jekyll-theme) and I will be more than happy to help!
+If you would like to report a bug, ask a question, request a feature, feel free to do so. The time I can devote to this template is quite limited, but I'll do my best to address issues as I can. 
 
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com).
-
-The GitHub repository is simply a mirror of the GitLab repository.
-
-# Credits
-
-Original README from HTML5 UP:
+## Credits
 
 ```
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Original Design
+- Editorial by HTML5 UP | html5up.net | @ajlkn
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+Jekyll Integration
+- Andrew Banchich
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Demo Images:
+- Unsplash (unsplash.com)
 
-(* = not included)
+Icons:
+- Font Awesome (fortawesome.github.com/Font-Awesome)
 
-AJ
-aj@lkn.io | @ajlkn
+Other:
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+- jQuery (jquery.com)
+- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+- Misc. Sass functions (@HugoGiraudel)
+- Respond.js (j.mp/respondjs)
+- Skel (skel.io)
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
