@@ -1,4 +1,4 @@
-# Personal Website - Academic
+# Personal Website Template - Academic
 
 This GitHub repo contains WIP code for an personal academic website. This template is based on a Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/), but has a number of changes that make it more suitable for academic use. 
 
