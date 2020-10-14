@@ -1,10 +1,13 @@
 <section class="tiles">
-  {% assign sorted = site.pubs | sort: 'date' | reverse %}
+    {% assign sorted = site.pubs | sort: 'date' | reverse %}
 
-  {% for pub in sorted%}
-      <article onclick="document.location ='{{pub.url}}'">
+    {% for pub in sorted%}
+    <article onclick="document.location ='{{pub.url}}'">
+
+        <div class = "article-info">
+
             <h3>{{pub.title}}</h3>
-            
+
             {{pub.authors | truncatewords: 20}} <br />
 
             <div><i>{{pub.outlet}}</i> • {{ pub.date | date: '%B, %Y' }}<br /><br /></div>
@@ -13,27 +16,29 @@
 
             {% if pub.pub_link %}
             <div>
-            <i class="fas fa-link"></i>
-            <a href="{{ pub.pub_link }}">Publisher Link</a>
+                <i class="fas fa-link"></i>
+                <a href="{{ pub.pub_link }}">Publisher Link</a>
             </div>
-            {% endif %} 
-            
+            {% endif %}
+
             {% if pub.oa_link %}
             <div>
-            <i class="fas fa-lock-open"></i> <a href="{{ pub.oa_link }}">Open Access Link</a>
+                <i class="fas fa-lock-open"></i> <a href="{{ pub.oa_link }}">Open Access Link</a>
             </div>
-            {% endif %} 
+            {% endif %}
 
             {% if pub.osf_url %}
             <div>
-            <img
-                src="https://osf.io/static/img/institutions/shields/cos-shield.png"
-                style="width: 17px; height: 17px"
-            />
-            <a href="{{ pub.osf_url }}">OSF</a>
+                <img src="https://osf.io/static/img/institutions/shields/cos-shield.png"
+                    style="width: 17px; height: 17px" />
+                <a href="{{ pub.osf_url }}">OSF</a>
             </div>
             {% endif %}
-      </article>
-  {% endfor %}
+        </div>
+        {% if pub.preprint == "yes" %}
+            <div class="bottom-banner">Preprint</div>
+        {% endif %}
+    </article>
+    {% endfor %}
 </section>
-<br/>
+<br />

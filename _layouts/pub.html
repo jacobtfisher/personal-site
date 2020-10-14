@@ -16,25 +16,28 @@
         <!-- Main -->
         <div id="main">
             <div class="inner">
-                <h1> <i class="fas fa-file-alt"></i></h1>
-                <h2>{{ page.title }}</h2>
-                {{page.authors}} </br>
-                <i><b>{{page.outlet}}</b></i> • {{ page.date | date: '%B, %Y' }}
-            </br>
-                <p>{{ content }}</p>
+                <section>
+                    <div class = "text-block">
+                        <h1> <i class="fas fa-file-alt"></i></h1>
+                        <h2>{{ page.title }}</h2>
+                        {{page.authors}} </br>
+                        <i><b>{{page.outlet}}</b></i> • {{ page.date | date: '%B, %Y' }}</br>
+                        <p>{{ content }}</p>
 
-                {% if page.pub_link %}
-                <i class="fas fa-link"></i> <a href="{{ page.pub_link }}">Publisher Link</a>
-                {% endif %} 
+                        {% if page.pub_link %}
+                        <i class="fas fa-link"></i> <a href="{{ page.pub_link }}">Publisher Link</a>
+                        {% endif %}
 
-                {% if page.oa_link %}
-               | <i class="fas fa-lock-open"></i> <a href="{{ page.oa_link }}">Open Access Link</a> 
-                {% endif %} 
+                        {% if page.oa_link %}
+                        | <i class="fas fa-lock-open"></i> <a href="{{ page.oa_link }}">Open Access Link</a>
+                        {% endif %}
 
-                {% if page.osf_url %}
-               | <img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width:17px;height:17px;" /> <a href="{{ page.osf_url }}">OSF</a></p>
-                {% endif %} 
-
+                        {% if page.osf_url %}
+                        | <img src="https://osf.io/static/img/institutions/shields/cos-shield.png"
+                            style="width:17px;height:17px;" /> <a href="{{ page.osf_url }}">OSF</a></p>
+                        {% endif %}
+                    </div>
+                </section>
             </div>
         </div>
 

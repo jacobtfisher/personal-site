@@ -21,31 +21,53 @@
             'transform #{$duration} #{$ease}',
             'opacity #{$duration} #{$ease}'
         ));
-        @include vendor('appearance', 'none');
+
         @include vendor('display', 'flex');
         @include vendor('flex-direction', 'column');
         @include vendor('justify-content', 'top');
         @include vendor('align-items', 'left');
-        
-        flex-grow: 0;
+    
+        // flex-grow: 0;
         cursor: pointer;
         position: relative;
         width: calc(#{(100% / 3)} - #{$gutter * 1});
         margin: $gutter 0 0 $gutter;
+
         border: 1px solid _palette(border);
         border-radius: _size(border-radius) * 2;
-        padding: 1em;
 
         h3 {
             margin: 0 0 (_size(element-margin) * 0.1) 0;
         }
 
-        .padbox {
+        .article-info {
+
+            @include vendor('display', 'flex');
+            @include vendor('flex-direction', 'column');
+            @include vendor('justify-content', 'top');
+            @include vendor('align-items', 'left');
+
             flex-grow: 1;
+            
+            padding: 1em;
+
+            .padbox {
+                flex-grow: 1;
+            }
+
         }
 
         &:hover {
             background-color: _palette(bg-alt) !important;
+        }
+
+        .bottom-banner {
+            background-color: #689F38;
+            border-radius: 0 0 _size(border-radius) * 2 _size(border-radius) * 2;
+            padding: .2em 1em .5em 1em;
+
+            text-align: right;
+            color: #FFFFFF;
         }
 
     }
