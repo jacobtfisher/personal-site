@@ -42,7 +42,7 @@
 
 		@include breakpoint(large) {
 			> .inner {
-				@include padding(0, 0, $pad: (12em, 12em, 6em, 6em));
+				@include padding(0, 0, $pad: (9em, 9em, 6em, 6em));
 
 				// > section {
 				// 	@include padding(4em, 0);
@@ -62,7 +62,7 @@
 
 		@include breakpoint(small) {
 			> .inner {
-				@include padding(0, 0, $pad: (3em, 3em, 3em, 3em));
+				@include padding(0, 0, $pad: (6em, 3em, 3em, 3em));
 
 				// > section {
 				// 	@include padding(3em, 0);
@@ -72,7 +72,7 @@
 
 		@include breakpoint(xsmall) {
 			> .inner {
-				@include padding(0, 0, $pad: (1em,1em, 1em, 1em));
+				@include padding(0, 0, $pad: (4em,1em,1em, 1em));
 
 				// > section {
 				// 	@include padding(3em, 0);

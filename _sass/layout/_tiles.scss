@@ -38,6 +38,7 @@
 
         h3 {
             margin: 0 0 (_size(element-margin) * 0.2) 0;
+            font-size: 1.1em;
         }
 
         .article-info {
@@ -58,7 +59,7 @@
             b {
                 color: _palette(fg);
                 text-transform: uppercase;
-                font-size: _font(size) * .8;
+                font-size: _font(size) * 0.8;
             }
 
         }
@@ -83,12 +84,24 @@
         margin-top: _size(element-margin);
     }
 
+    @include breakpoint(xlarge) {
+
+        article {
+            width: calc(#{(100% / 2)} - #{$gutter * 1});
+            margin: $gutter 0 0 $gutter;
+            h3 {
+                font-size: 1.0em;
+            }
+        }
+    }
+
     @include breakpoint(large) {
         $gutter: _size(gutter) * 0.5;
 
         article {
             width: calc(#{(100% / 3)} - #{$gutter * 1});
             margin: $gutter 0 0 $gutter;
+
         }
     }
 
