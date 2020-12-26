@@ -2,12 +2,12 @@
 layout: pub
 title:  "A practical introduction to network neuroscience for communication researchers"
 authors: Fisher, J.T., Hopp, F.R., & Weber, R.
-date: 2020-11-29
+date: 2020-12-21
 outlet: Communication Methods & Measures
-pub_link: 
+pub_link: https://www.tandfonline.com/doi/full/10.1080/19312458.2020.1860206
 oa_link: https://osf.io/4txuf/
 osf_url: 
-preprint: "yes"
+preprint: "no"
 categories: articles
 ---
 
