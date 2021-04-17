@@ -27,7 +27,9 @@
           {% if page.image %}
           <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
           {% endif %}
-          {{ content }}
+          <div class="text-block">
+            {{ content }}
+          </div>
         </section>
       </div>
     </div>
