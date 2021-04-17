@@ -36,7 +36,7 @@ This course consists of an examination of major concepts in behavioral neuroscie
 
 ## Summer 2017
 
-**Instructor of Record**
+**Instructor of Record** <br>
 PSY 108 - Cognitive Psychology <br>
 The University of California, Santa Barbara <br>
 
