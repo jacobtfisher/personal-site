@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "iCoRe: The GDELT interface for the advancement of communication research"
 authors: Hopp. F.R., Schaffer, J., Fisher, J.T., Cornell, D., & Weber, R.
 date: 2019-10-01

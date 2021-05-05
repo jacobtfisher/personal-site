@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "An agenda for open science in communication"
 authors: "Dienlin, T., Johannes, N., Bowman, N.D., Masur, P.K., Engesser, S. Kümpel, A.S., Lukito, J., Bier, L.M., Zhang, R., Johnson, B.K., Huskey, R., Schneider, F.M., Breuer, J., Parry, D.A., Vermeulen, I., Fisher, J.T. Banks, J., Weber, R., Ellis, D., Smits, T., Ivory, J.D., Trepte, S., McEwan, B., Rinke, E.M., Neubaum, G., Winter, S., Carpenter, C.J., Krämer, N., Utz, S., Unkel, J., Wang, X., Davidson, B.I., Kim, N., Won, A.S., Domahidi, E., Lewis, N.A., de Vreese, C."
 date: 2020-03-01

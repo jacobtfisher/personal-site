@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "A practical introduction to network neuroscience for communication researchers"
 authors: Fisher, J.T., Hopp, F.R., & Weber, R.
 date: 2020-12-21

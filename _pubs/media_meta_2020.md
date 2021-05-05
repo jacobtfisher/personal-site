@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "Measurement discrepancies between logged and self-reported digital media use: A systematic review and meta-analysis"
 authors: Parry, D., Davidson, B., Sewall, C., Fisher, J., Mieczkowski, H., Quintana, D.
 date: 2020-10-01

@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  A graph learning approach to detecting moral conflict in movie scripts
 authors: Hopp, F.R., Fisher, J.T., Weber, R.
 date: 2020-08-13

@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "Modality-specific effects of perceptual load in multimedia processing"
 authors: Fisher, J.T., Hopp, F.R., & Weber, R.
 date: 2019-12-01

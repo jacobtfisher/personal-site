@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "Integrating media selection and media effects using decision theory"
 authors: Fisher, J.T., & Hamilton, K.
 date: 2021-04-29

@@ -1,5 +1,5 @@
 ---
-layout: pub
+layout: ind_pub
 title:  "Taking messages into the magnet: method-theory synergy in communication neuroscience"
 authors: "Weber, R., Fisher, J.T., Hopp, F.R., & Lonergan, C."
 date: 2017-11-01
