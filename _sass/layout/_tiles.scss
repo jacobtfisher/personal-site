@@ -60,6 +60,11 @@
                 color: _palette(fg);
                 text-transform: uppercase;
                 font-size: _font(size) * 0.8;
+                padding-bottom: 10px;
+            }
+
+            #info-text {
+                font-size: _font(size) * 0.8;
             }
 
         }
