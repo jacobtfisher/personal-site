@@ -67,6 +67,47 @@
                 font-size: _font(size) * 0.8;
             }
 
+            .term-list {
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: flex-end;
+                max-width: 70%;
+                align-self: flex-end;
+
+                .term-chip {
+                    padding: 3px 7px;
+                    background-color: #9E9E9E;
+                    color: #FFFFFF !important;
+                    font-size: .9em;
+                    font-weight: 500;
+                    line-height: 1em;
+                    margin: 0 .2em .2em 0;
+                    border-radius: .4em;
+                }
+
+                .institution-chip {
+                    padding: 3px 7px;
+                    color: #FFFFFF;
+                    font-size: .9em;
+                    font-weight: 500;
+                    line-height: 1em;
+                    margin: 0 .2em .2em 0;
+                    border-radius: .4em;
+                }
+
+                #TTU {
+                    background-color: #f44336;
+                }
+
+                #UCSB {
+                    background-color: #1976D2;
+                }
+
+                #UIUC {
+                    background-color: #FB8C00;
+                }
+            }
+
         }
 
         &:hover {

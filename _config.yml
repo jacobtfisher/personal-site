@@ -33,3 +33,6 @@ collections:
   pubs:
     output: true
     permalink: /pubs/:title
+  courses:
+    output: true
+    permaling: /courses/:title
