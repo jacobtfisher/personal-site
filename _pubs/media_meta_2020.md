@@ -2,12 +2,11 @@
 layout: ind_pub
 title:  "Measurement discrepancies between logged and self-reported digital media use: A systematic review and meta-analysis"
 authors: Parry, D., Davidson, B., Sewall, C., Fisher, J., Mieczkowski, H., Quintana, D.
-date: 2020-10-01
-outlet: PsyArXiv
-pub_link: 
+date: 2021-05-17
+outlet: Nature Human Behaviour
+pub_link: https://www.nature.com/articles/s41562-021-01117-5
 oa_link: https://psyarxiv.com/f6xvz/
 osf_url: https://osf.io/js6ye/
-preprint: "yes"
 categories: articles
 ---
 
