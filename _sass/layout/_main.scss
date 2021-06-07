@@ -30,6 +30,15 @@
 
 				.content-block {
 					max-width: 1280px;
+
+					>.two-col {
+						column-count: 2;
+						column-fill:balance;
+
+						p {
+							display:inline-block;
+						}
+					}
 				}
 			}
 		}
@@ -47,20 +56,12 @@
 		@include breakpoint(large) {
 			> .inner {
 				@include padding(0, 0, $pad: (9em, 9em, 6em, 6em));
-
-				// > section {
-				// 	@include padding(4em, 0);
-				// }
 			}
 		}
 
 		@include breakpoint(medium) {
 			> .inner {
 				@include padding(0, 0, $pad: (6em, 6em, 6em, 6em));
-
-				// > section {
-				// 	@include padding(3em, 0);
-				// }
 			}
 		}
 
@@ -68,19 +69,22 @@
 			> .inner {
 				@include padding(0, 0, $pad: (6em, 3em, 3em, 3em));
 
-				// > section {
-				// 	@include padding(3em, 0);
-				// }
+				> section {
+					.content-block >.two-col {
+						column-count:unset !important;
+						column-fill:balance;
+
+						p {
+							display:inline-block;
+						}
+					}
+				}
 			}
 		}
 
 		@include breakpoint(xsmall) {
 			> .inner {
 				@include padding(0, 0, $pad: (4em,1em,1em, 1em));
-
-				// > section {
-				// 	@include padding(3em, 0);
-				// }
 			}
 		}
 	}
