@@ -25,15 +25,15 @@
                         <p>{{ content }}</p>
 
                         {% if page.pub_link %}
-                        <i class="fas fa-link"></i> <a href="{{ page.pub_link }}">Publisher Link</a>
+                        <i class="fas fa-link"></i> <a href="{{ page.pub_link }}">Publisher Link</a><br>
                         {% endif %}
 
                         {% if page.oa_link %}
-                        | <i class="fas fa-lock-open"></i> <a href="{{ page.oa_link }}">Open Access Link</a>
+                        <i class="fas fa-lock-open"></i> <a href="{{ page.oa_link }}">Open Access Link</a><br>
                         {% endif %}
 
                         {% if page.osf_url %}
-                        | <img src="https://osf.io/static/img/institutions/shields/cos-shield.png"
+                        <img src="https://osf.io/static/img/institutions/shields/cos-shield.png"
                             style="width:17px;height:17px;" /> <a href="{{ page.osf_url }}">OSF</a></p>
                         {% endif %}
                     </div>
