@@ -4,7 +4,7 @@ layout: default
 
 <!-- Section -->
 
-# About
+# Hello!
 
 I am an assistant professor in the [Charles H. Sandage Department of Advertising](https://media.illinois.edu/advertising) in the College of Media at the University of Illinois Urbana-Champaign and an affiliate of the [Illinois Informatics Program](https://informatics.ischool.illinois.edu/). I completed my Ph.D. in Communication at the University of California Santa Barbara, where I conducted research in the [Media Neuroscience Lab](https://www.medianeuroscience.org/), and served as a trainee in the [NSF IGERT](https://networkscience.igert.ucsb.edu/) program in Network Science and Big Data.
 
