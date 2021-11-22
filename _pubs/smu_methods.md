@@ -3,7 +3,7 @@ layout: ind_pub
 title:  "Social media and well-being: A methodological perspective"
 authors: "Parry, D.A., Fisher, J.T., Mieczkowski, H., Sewall, C.J.R., Davidson, B.I."
 date: 2021-09-09
-outlet: PsyArXiV
+outlet: PsyArXiv
 categories: articles
 oa_link: https://psyarxiv.com/exhru/
 preprint: "yes"
