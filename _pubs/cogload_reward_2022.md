@@ -7,6 +7,7 @@ outlet: Media Psychology
 categories: articles
 oa_link: https://mediarxiv.org/txfka/
 pub_link: https://www.tandfonline.com/doi/abs/10.1080/15213269.2022.2161576#metrics-content
+osf_url: https://osf.io/49673/
 preprint: "no"
 ---
 
