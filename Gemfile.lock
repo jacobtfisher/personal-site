@@ -78,6 +78,7 @@ DEPENDENCIES
   bundler (>= 1.12)
   editorial_jekyll_theme!
   jekyll
+  jekyll-sass-converter
   webrick (~> 1.7)
 
 BUNDLED WITH
