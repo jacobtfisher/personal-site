@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications
 ---
 
+Chen, C., Hu, X., & **Fisher, J.T.** (2022). The conceptualization of “presence” in interactive marketing: A systematic review of 30 years of literature. In Wang, C. (Ed.) *Handbook of Interactive Marketing*. Springer.
+
 **Fisher, J.T.**, Lonergan, C., Hopp, F.R., & Weber (2021). Media entertainment, flow experiences, and the synchronization of audiences. In Vorderer, P, & Klimmt, C., (Eds.) *Oxford Handbook of Entertainment Theory*. (pp. 343-362). Oxford, UK: Oxford University Press.
 
 **Fisher, J.T.**, & Weber, R. (2020). Innovative health interventions at the intersection of neuroimaging and multimedia design. In Kim, J. & Song, H. (Eds.) *New Technology for Health-Related Cognitive and Behavioral Change*. (pp. 333-351). San Diego, CA: Elsevier.

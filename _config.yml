@@ -35,4 +35,4 @@ collections:
     permalink: /pubs/:title
   courses:
     output: true
-    permaling: /courses/:title
+    permalink: /courses/:title

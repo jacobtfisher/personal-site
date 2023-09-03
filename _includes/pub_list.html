@@ -4,39 +4,43 @@
     {% for pub in sorted%}
     <article onclick="document.location ='{{pub.url}}'">
 
-        <div class = "article-info">
+        <div class="article-info">
 
             <h3>{{pub.title}}</h3>
 
             <b>{{pub.authors | truncatewords: 20}}</b>
 
-            <div id = "info-text"><i>{{pub.outlet}}</i> • {{ pub.date | date: '%B %Y' }}<br /><br /></div>
+            {% if pub.forthcoming == "yes" %}
+            <div id="info-text"><i>{{pub.outlet}}</i> • Forthcoming <br /><br /></div>
+
+            {% else %}
+            <div id="info-text"><i>{{pub.outlet}}</i> • {{ pub.date | date: '%B %Y' }}<br /><br /></div>
+            {% endif %}
 
             <span class="padbox"></span>
 
             {% if pub.pub_link %}
-            <div id = "info-text">
-                <i class="fas fa-link" style = "margin-right: 3px; position: relative; right: 2px;"></i>
+            <div id="info-text">
+                <i class="fas fa-link" style="margin-right: 3px; position: relative; right: 2px;"></i>
                 <a href="{{ pub.pub_link }}">Publisher Link</a>
             </div>
             {% endif %}
 
             {% if pub.oa_link %}
-            <div id = "info-text">
-                <i class="fas fa-lock-open" style = "margin-right: 2px; position: relative; right: 2px;"></i> <a href="{{ pub.oa_link }}">Open Access Link</a>
+            <div id="info-text">
+                <i class="fas fa-lock-open" style="margin-right: 2px; position: relative; right: 2px;"></i> <a href="{{ pub.oa_link }}">Open Access Link</a>
             </div>
             {% endif %}
 
             {% if pub.osf_url %}
-            <div id = "info-text">
-                <img src="https://osf.io/static/img/institutions/shields/cos-shield.png"
-                    style="width: 17px; height: 17px; position: relative; top: 4px; right: 2px; margin-right: 2px;" />
+            <div id="info-text">
+                <img src="https://osf.io/static/img/institutions/shields/cos-shield.png" style="width: 17px; height: 17px; position: relative; top: 4px; right: 2px; margin-right: 2px;" />
                 <a href="{{ pub.osf_url }}">OSF</a>
             </div>
             {% endif %}
         </div>
         {% if pub.preprint == "yes" %}
-            <div class="bottom-banner">Preprint</div>
+        <div class="bottom-banner">Preprint</div>
         {% endif %}
     </article>
     {% endfor %}

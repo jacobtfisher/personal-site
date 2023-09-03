@@ -6,6 +6,8 @@
 
 /* Tiles */
 
+@use "sass:math";
+
 .tiles {
     $gutter: _size(gutter);
     $duration: 0.5s;
@@ -30,7 +32,7 @@
         // flex-grow: 0;
         cursor: pointer;
         position: relative;
-        width: calc(#{(100% / 3)} - #{$gutter * 1});
+        width: calc(#{math.div(100%, 3)} - #{$gutter * 1});
         margin: $gutter 0 0 $gutter;
 
         border: 1px solid _palette(border);
@@ -73,17 +75,6 @@
                 justify-content: flex-end;
                 max-width: 70%;
                 align-self: flex-end;
-
-                .term-chip {
-                    padding: 3px 7px;
-                    background-color: #9E9E9E;
-                    color: #FFFFFF !important;
-                    font-size: .9em;
-                    font-weight: 500;
-                    line-height: 1em;
-                    margin: 0 .2em .2em 0;
-                    border-radius: .4em;
-                }
 
                 .institution-chip {
                     padding: 3px 7px;
@@ -133,7 +124,7 @@
     @include breakpoint(xlarge) {
 
         article {
-            width: calc(#{(100% / 2)} - #{$gutter * 1});
+            width: calc(#{(100% * 0.5)} - #{$gutter * 1});
             margin: $gutter 0 0 $gutter;
             h3 {
                 font-size: 1.0em;
@@ -145,7 +136,7 @@
         $gutter: _size(gutter) * 0.5;
 
         article {
-            width: calc(#{(100% / 3)} - #{$gutter * 1});
+            width: calc(#{math.div(100%, 3)} - #{$gutter * 1});
             margin: $gutter 0 0 $gutter;
 
         }
@@ -155,7 +146,7 @@
         $gutter: _size(gutter) * 0.5;
 
         article {
-            width: calc(#{(100% / 2)} - #{$gutter * 1});
+            width: calc(#{(100% * 0.5)} - #{$gutter * 1});
             margin: $gutter 0 0 $gutter;
         }
     }
