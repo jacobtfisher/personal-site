@@ -2,22 +2,22 @@
 title: Jacob T. Fisher
 subtitle: 
 email: jacob.taylor.fisher@gmail.com
-description: Researcher, Media Neuroscience Lab | Graduate student, UC Santa Barbara
+description: Assistant Professor, Department of Communication, Michigan State University
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Jacob T. Fisher
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: East Lansing
+state: MI
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
 
 # Social settings
-university_affiliation: University of Illinois
-university_url: https://illinois.edu/
-departmental_affiliation: College of Media
-departmental_url: https://media.illinois.edu/
+university_affiliation: Michigan State University
+university_url: https://msu.edu/
+departmental_affiliation: Department of Communication
+departmental_url: https://comartsci.msu.edu/departments/communication
 rg_url: https://www.researchgate.net/profile/Jacob_Fisher4
 github_url: https://github.com/jacobtfisher
 orcid_url: https://orcid.org/0000-0002-2968-2557
