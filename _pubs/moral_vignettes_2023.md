@@ -1,11 +1,11 @@
 ---
 layout: ind_pub
 title: "Moral foundations elicit shared and dissociable cortical activation modulated by political ideology"
-authors: Hopp, F.R., Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R.
-date: 2023-09-08
+authors: "Hopp, F.R., Amir, O., Fisher, J.T., Grafton, S., Sinnott-Armstrong, W., & Weber, R."
+date: 2023-09-07
 outlet: Nature Human Behaviour
 categories: articles
-oa_link: I: https://doi.org/10.21203/rs.3.rs-2133317/v1
+oa_link: https://doi.org/10.21203/rs.3.rs-2133317/v1
 pub_link: https://www.nature.com/articles/s41562-023-01693-8
 osf_url: https://osf.io/dfmu6/
 preprint: "no"

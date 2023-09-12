@@ -1,7 +1,7 @@
 ---
 layout: ind_pub
 title: "Cognitive and perceptual load have opposing effects on brain network efficiency and behavioral variability in ADHD"
-authors: Fisher, J.T., Hopp, F.R., & Weber, R.
+authors: "Fisher, J.T., Hopp, F.R., & Weber, R."
 date: 2023-09-08
 outlet: Network Neuroscience
 categories: articles
