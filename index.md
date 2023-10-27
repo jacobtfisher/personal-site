@@ -12,6 +12,6 @@ My primary research interests lie at the intersection of digital technology, att
 
 I also work to build theory and refine methods in media psychology and adjacent domains. As a part of these efforts, I've played a role in creating a few publicly available research tools, including a [command-line tool](https://github.com/medianeuroscience/emfdscore) for applying the Extended Moral Foundations Dictionary ([eMFD](https://link.springer.com/article/10.3758/s13428-020-01433-0)), and an [interface](https://icore.mnl.ucsb.edu/home) for the Global Database of Events, Language, and Tone ([GDELT](https://www.gdeltproject.org/)).  
 
-When I'm not working, I enjoy cooking, traveling, listening to music, writing code, and lifting heavy things from time to time. Please feel free to reach out to me [on Twitter](https://twitter.com/jake_fisher), or via email at jtfisher[at]illinois[dot]edu.
+When I'm not working, I enjoy cooking, traveling, listening to music, writing code, and lifting heavy things from time to time. Please feel free to reach out to me via email at jtf[at]msu[dot]edu.
 
 <!-- Section -->
