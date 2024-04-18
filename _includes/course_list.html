@@ -1,7 +1,7 @@
 <style>
 
 </style>
-<section class="course-tiles">
+<section class="tiles tiles-2">
     {% assign sorted = site.courses | sort: 'date' | reverse %}
 
     {% for course in sorted %}
@@ -9,7 +9,7 @@
 
         <div class="article-info">
 
-            <h3>{{course.course-number}}: {{course.title}}</h3>
+            <h3 style="font-size:smaller">{{course.course-number}}: {{course.title}}</h3>
 
             <p style="line-height: 1.2em; font-size: smaller;"><i>{{course.short-description}}</i></p>
 
