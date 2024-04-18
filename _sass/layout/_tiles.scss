@@ -29,7 +29,6 @@
         @include vendor('justify-content', 'top');
         @include vendor('align-items', 'left');
     
-        // flex-grow: 0;
         cursor: pointer;
         position: relative;
         width: calc(#{math.div(100%, 3)} - #{$gutter * 1});
@@ -97,6 +96,10 @@
                 #UIUC {
                     background-color: #FB8C00;
                 }
+
+                #MSU {
+                    background-color: #24443c;
+                }
             }
 
         }
@@ -116,6 +119,7 @@
         }
 
     }
+    
 
     * + & {
         margin-top: _size(element-margin);

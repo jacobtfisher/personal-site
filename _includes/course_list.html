@@ -1,7 +1,7 @@
 <style>
 
 </style>
-<section class="tiles">
+<section class="course-tiles">
     {% assign sorted = site.courses | sort: 'date' | reverse %}
 
     {% for course in sorted %}
@@ -11,7 +11,7 @@
 
             <h3>{{course.course-number}}: {{course.title}}</h3>
 
-            <p style="line-height: 1.2em;"><i>{{course.short-description}}</i></p>
+            <p style="line-height: 1.2em; font-size: smaller;"><i>{{course.short-description}}</i></p>
 
             <span class="padbox"></span>
 
